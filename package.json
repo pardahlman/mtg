@@ -11,7 +11,7 @@
     "enzyme-adapter-react-16": "1.15.2",
     "react": "16.13.0",
     "react-dom": "16.13.0",
-    "react-scripts": "3.4.0",
+    "react-scripts": "3.4.4",
     "react-test-renderer": "16.13.0",
     "redux-logger": "3.0.6"
   },
