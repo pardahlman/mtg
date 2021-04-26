@@ -9,10 +9,10 @@
     "boardgame.io": "0.37.2",
     "enzyme": "3.11.0",
     "enzyme-adapter-react-16": "1.15.2",
-    "react": "16.13.0",
-    "react-dom": "16.13.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "react-scripts": "3.4.0",
-    "react-test-renderer": "16.13.0",
+    "react-test-renderer": "17.0.2",
     "redux-logger": "3.0.6"
   },
   "scripts": {
