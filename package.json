@@ -55,7 +55,7 @@
     "eslint": "6.8.0",
     "eslint-plugin-unicorn": "17.2.0",
     "husky": "4.2.3",
-    "prettier": "1.19.1",
+    "prettier": "2.3.1",
     "pretty-quick": "2.0.1"
   },
   "husky": {
